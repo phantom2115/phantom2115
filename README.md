@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 개발자를 꿈꾸는 정민석입니다.
 <!--
 **phantom2115/phantom2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
