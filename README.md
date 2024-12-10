@@ -29,8 +29,8 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-%23335F92?style=flat-square&logo=Asana&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B?style=flat-square&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385C441?style=flat-square&logo=Swagger&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-%23335F92?style=flat-square&logo=Asana&logoColor=white)
