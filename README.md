@@ -1,8 +1,8 @@
-# Minseok's GitHub
+# FE Minseok's GitHub
 
 [![Velog Badge](https://img.shields.io/badge/phantom2115%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@phantom2115)](https://velog.io/@phantom2115)
 
-### Frontend Development Skills
+### Development Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white)
