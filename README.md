@@ -13,7 +13,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%236CC24A?style=flat-square&logo=Node.js&logoColor=white)
 
 ### Databases
 
